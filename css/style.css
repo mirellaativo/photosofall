@@ -6,10 +6,10 @@ body, ul{
 }
 
 #menu {
-    height: 80px;
+    height: 100px;
     width: 100%;
 }
 
 #menu #logo img{
-    height: 30px;
+    height: 70px;
 }
